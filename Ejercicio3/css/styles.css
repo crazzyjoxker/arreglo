@@ -1,0 +1,81 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('fondo.jpg');
+}
+
+.form-register {
+  width: 1000px;
+  background: #24303c;
+  
+}
+
+.form-register .empleado1 {
+ float: left;
+ margin-right: 5px;
+}
+
+.form-register .empleado2 {
+  float: left;
+  margin-left: 15px;
+}
+
+.form-register .empleado3 {
+  margin-left: 25px;
+ 
+}
+
+.f {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.li {
+  width: 100%;
+  background: #24303c;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  border: 1px solid #1f53c5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: white;
+}
+
+
+
+
+.btn {
+  width: 20%;
+  background: #1f53c5;
+  border: none;
+  padding: 15px;
+  color: white;
+  margin: 20px 2px;
+  font-size: 25px;
+  border-radius: 15px;
+}
+
+.centrado{
+  text-align: center;
+}
+
+h1{
+  font-size: 26pt;
+  font-weight: bold;
+  margin: auto;
+}
+
+h4{
+  font-size: 16pt;
+  font-weight: lighter;
+}
+
+h3{
+  font-size: 18pt;
+  font-weight: bolder;
+}
